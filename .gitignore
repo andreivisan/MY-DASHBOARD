@@ -1,0 +1,53 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+/authentication/HELP.md
+/authentication/target/
+!/authentication/.mvn/wrapper/maven-wrapper.jar
+!/authentication/**/src/main/**/target/
+!/authentication/**/src/test/**/target/
+
+### STS ###
+/authentication/.apt_generated
+/authentication/.classpath
+/authentication/.factorypath
+/authentication/.project
+/authentication/.settings
+/authentication/.springBeans
+/authentication/.sts4-cache
+
+### IntelliJ IDEA ###
+/authentication/.idea
+/authentication/*.iws
+/authentication/*.iml
+/authentication/*.ipr
+
+### VS Code ###
+/authentication/.vscode/
+
+# Authentication General
+/authentication/.DS_Store
